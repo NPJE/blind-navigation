@@ -1,0 +1,23 @@
+{
+    "Buttons":{
+        "Start":"Start",
+        "FreshChat":"Fresh Chat",
+        "BlindStructure":"Blind Structure"
+    },
+    "GeneralTexts":{
+        "header_FC":"Welcome to Fresh-Chat!",
+        "header_BS":"Welcome to Blind Structure",
+        "header_SP":"This is the Start-up Page Please choose the projects that are aligned with the tasks",
+        "header_Joe":"Task of the day"
+    },
+    "BlindStructure":{
+        "Start":"Blind Structure",
+        "footer01":"...",
+        "footer02":"+",
+        "footer03":"*2",
+        "Level":"Level",
+        "Time":"Time",
+        "Blinds":"Blinds",
+        "BLenght": "Blind Level Length"
+    }
+}
